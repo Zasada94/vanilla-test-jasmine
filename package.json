@@ -1,0 +1,16 @@
+{
+  "name": "vanilla-tdd",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "parcel index.html",
+    "test": "jasmine"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "jasmine": "^3.7.0",
+    "parcel-bundler": "^1.12.5"
+  }
+}
